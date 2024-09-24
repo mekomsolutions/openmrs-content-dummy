@@ -1,0 +1,10 @@
+{
+    "@openmrs/esm-primary-navigation-app": {
+      "externalRefLinks": [
+        {
+          "title": "Google.com (From Dummy package)",
+          "redirect": "https://google.com"
+        }
+      ]
+    }
+}
